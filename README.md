@@ -1,7 +1,9 @@
 # Curso Desarrollo Web con Java
 
 <p align="center">
-  <img src="./img/webdev-logo.png" width="400"/>
+  <a href="https://akobashikawa.github.io/curso-desarrollo-web-java/">
+    <img src="https://akobashikawa.github.io/curso-desarrollo-web-java/img/webdev-logo.png" width="400"/>
+  </a>
 </p>
 
 
